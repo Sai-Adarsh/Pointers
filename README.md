@@ -4,6 +4,6 @@ Link to ([Google slides deck](https://docs.google.com/presentation/d/1taRrvskU3c
 * Referencing
 * Dereferencing
 * Pointers to Array
-* Array of ointers
+* Array of Pointers
 * Dynamic memory allocation
 
